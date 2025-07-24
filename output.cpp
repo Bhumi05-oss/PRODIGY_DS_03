@@ -1,0 +1,1 @@
+vector<double> sample = {35, 1, 0, 2, 300};
